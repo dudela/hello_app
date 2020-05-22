@@ -1,6 +1,6 @@
-# Ruby on Rails sample application
+# Ruby on Rails
 
-This is the sample application for
+This is a sample app for
 [*Ruby on Rails*]
 
 ## Getting started
